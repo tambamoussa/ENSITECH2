@@ -1,27 +1,38 @@
-# Ensitech
+# Projet_Ensitech
+Dossier collaboratif pour la mise en production (front end) du projet Ensitech
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+## Notre équipe 
 
-## Development server
+[Moussa TAMBA 🇨🇲](https://github.com/tambamoussa)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[Hothia DIA0 🇸🇳](https://github.com/hothiadiao)
 
-## Code scaffolding
+[Jalil Fonda 🇨🇲](https://github.com/JalilGafar)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[Yvon MENSAH 🇧🇯](https://github.com/Yvon-30)
 
-## Build
+[Nsengimana François 🇷🇼](https://github.com/IMANA47)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[Urelle-TCHAMBOU 🇨🇲](https://github.com/Urelle-TCHAMBOU)
 
-## Running unit tests
+[Naffiou Kadiri 🇸🇳](https://github.com/Naf180)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[Patricia Ngounou 🇨🇲](https://github.com/ngounou-tp)
 
-## Running end-to-end tests
+## Les Technologies Utilisées pour le projet :
+[UML](https://www.uml.org/) pour la modélisation du système 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+la méthode agile, [Scrum](https://www.scrum.org/resources/scrum-guide) et [logiciel Jira](https://gnioo.atlassian.net/jira/software/projects/EN/boards/4/backlog) pour la gestion du projet nous les avons utilisé pendant tout le processus du projet.
 
-## Further help
+### Pour la partie Front-End :
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Nous avons choisi le HTML, CSS JavaScript et Bootstrap 
+
+## Live Demo :
+Le de charge [ici]()
+
+PowerPoint pour la présentation du projet [ici]()
+
+Front-end de l'application [ici]()
+
+
